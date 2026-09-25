@@ -1,0 +1,12 @@
+{
+  "vitis_version": "2025.1",
+  "block_design": "design_1",
+  "wrapper_top": "design_1_wrapper",
+  "platform_name": "platform",
+  "domain_name": "standalone_domain",
+  "os": "standalone",
+  "cpu": "microblaze_riscv_0",
+  "app_name": "firmware",
+  "app_template": "empty_application",
+  "processor_instance": ""
+}

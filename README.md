@@ -1,4 +1,4 @@
-📋 **Binary Identification Registers** : Version = `0x00000001` | Hash = `0x00000000`
+📋 **Binary Identification Registers** : Version = `0x00000002` | Hash = `0x50902C86`
 
 # Vivado Project
 [//]: # (AI INSTRUCTIONS: Review the project files to understand the main purpose and replace this comment with a 2-3 sentence summery of the purpose and functionality of this Vivado FPGA project. update the git clone command below with the actual repository URL if you have access.)
