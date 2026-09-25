@@ -7,7 +7,7 @@
 
 ```sh
 git clone --recursive git@github.com:AfshinSynex/pm_hls_test.git
-cd Vivado pm_hls_test
+cd pm_hls_test
 python project_manager_shortcut.py
 # Select option 2 to recreate the Vivado project
 ```
