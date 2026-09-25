@@ -1,0 +1,10 @@
+{
+  "components": {
+    "DDC_IP": {
+      "config": "DDC_IP/hls.cfg",
+      "output": "DDC_IP",
+      "required": false
+    }
+  },
+  "version": 1
+}

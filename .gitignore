@@ -1,0 +1,30 @@
+*
+# whitelist - managed by project_manager.py
+# DO NOT track ip_repo - contains submodules
+ip_repo/
+
+# GitHub Actions workflows
+!.github/
+!.github/**
+
+!hls_project/
+!hls_project/DDC_IP/
+!.gitignore
+!README.md
+!hls_project/.gitignore
+!hls_project/DDC_IP/hls.cfg
+!hls_project/hls.json
+!pm_hls_test.tcl
+!project_manager_shortcut.py
+
+# ip_export - custom IP cores
+!ip_export/
+!ip_export/**
+
+# user_files - user documentation and files
+!user_files/
+!user_files/**
+
+# HLS sources and native configuration
+!hls_project/
+!hls_project/**
